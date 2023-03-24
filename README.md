@@ -12,8 +12,6 @@ This is a standard calculator made by Ankit using HTML5, CSS3 &amp; Vanilla Java
 - **Operate the calculator in dark or light mode**
 - **You can sync the calculator theme with your device/system theme**
 
-### Visit the amazing calculator now. [Click here](calculator-web-five.vercel.app) 
-
 ----
 
 
